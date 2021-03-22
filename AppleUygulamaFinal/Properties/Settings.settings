@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AppleUygulamaFinal.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Ayar" Type="System.String" Scope="User">
+      <Value Profile="(Default)">isim</Value>
+    </Setting>
+    <Setting Name="Ayar1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">il</Value>
+    </Setting>
+    <Setting Name="Ayar2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ilçe</Value>
+    </Setting>
+    <Setting Name="Ayar3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">adres</Value>
+    </Setting>
+    <Setting Name="Ayar4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">telefon</Value>
+    </Setting>
+    <Setting Name="Ayar5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mail</Value>
+    </Setting>
+    <Setting Name="Ayar6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">fiyat</Value>
+    </Setting>
+    <Setting Name="Ayar7" Type="System.String" Scope="User">
+      <Value Profile="(Default)">model</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
